@@ -14,3 +14,7 @@ Bulding a website from scratch using HTML and CSS that gives finanacial solution
 - Arvin Alihssou
 - Hussein Talal
 - Evan Hameed
+
+## Screenshots 
+
+![Desktop view](./imgs/desktopview.png)
