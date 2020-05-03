@@ -7,3 +7,10 @@ Bulding a website from scratch using HTML and CSS that gives finanacial solution
 
 [Finances](https://jevelin.shufflehound.com/finances/#)
 
+---
+
+## Contributors
+- Sarah Mohammed
+- Arvin Alihssou
+- Hussein Talal
+- Evan Hameed
